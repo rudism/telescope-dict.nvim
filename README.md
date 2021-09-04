@@ -2,6 +2,8 @@
 
 A [Telescope](https://github.com/nvim-telescope/telescope.nvim) extension that loads a list of synonyms for the word under the cusor in the current buffer, and shows their definition in the preview window. Selecting one of the synonyms replaces the word in the buffer.
 
+![Screenshot](https://raw.githubusercontent.com/wiki/rudism/telescope-dict.nvim/img/screen_shot.png)
+
 ## Requirements
 
 These should be available through your package manager (or likely already installed, in the case of `perl`):
