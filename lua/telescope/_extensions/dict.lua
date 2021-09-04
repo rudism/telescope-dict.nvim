@@ -1,4 +1,3 @@
--- command
 local telescope = require('telescope')
 local pickers = require('telescope.pickers')
 local finders = require('telescope.finders')
