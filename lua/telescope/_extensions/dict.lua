@@ -47,7 +47,6 @@ return telescope.register_extension {
               end,
               title = "Definition"
             }),
-            dynamic_preview_title = true,
             attach_mappings = function(prompt_bufnr)
               actions.select_default:replace(function()
                 local selection = action_state.get_selected_entry()
