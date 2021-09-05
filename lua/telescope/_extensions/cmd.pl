@@ -8,7 +8,6 @@
 
 use warnings;
 use strict;
-use Data::Dumper qw(Dumper);
 
 my ($cmd, $word) = (shift, shift);
 my $qword = quotemeta($word);
