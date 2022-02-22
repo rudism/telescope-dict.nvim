@@ -1,3 +1,5 @@
+**Note:** Active development has moved to https://code.sitosis.com/rudism/telescope-dict.nvim
+
 # telescope-dict.nvim
 
 A [Telescope](https://github.com/nvim-telescope/telescope.nvim) extension that loads a list of synonyms for the word under the cusor in the current buffer, and shows their definition in the preview window. Selecting one of the synonyms replaces the word in the buffer.
